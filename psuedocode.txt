@@ -1,0 +1,9 @@
+1. Get all the transactions
+	- var page = 1;
+	//Send initial request, get the number of transactions.
+	//From initial request, push transactions into a variable.
+	//If variable.length less than number of transactions, increment page and re-request.
+
+	
+
+2.Calculate total balance
