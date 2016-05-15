@@ -28,4 +28,4 @@ Additional Feature 3: Categorized Expenses with Transactions
 
 Additional Feature 4: List Daily Balances
 
-![enter image description here](https://raw.githubusercontent.com/tratnayake/rest_test/master/images/AdditionalFeature4.png)
+![enter image description here](https://raw.githubusercontent.com/tratnayake/rest_test/master/images/AdditionalFeature4A.png)
