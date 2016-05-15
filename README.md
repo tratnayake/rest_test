@@ -6,6 +6,15 @@ Run Instructions:
 -----------------
  1. Install required dependencies `npm install`
  2. Run`node app.js`
+ 
+ 
+Tests:
+-----------------
+ 1. Ensure that Mocha & Chai are installed (should alreadyy happen with `npm install`
+ 2. Test using mocha by running `mocha appTest.js`
+ 
+Output:
+![enter image description here](https://raw.githubusercontent.com/tratnayake/rest_test/master/images/tests.png)
 
 Features
 ----------
