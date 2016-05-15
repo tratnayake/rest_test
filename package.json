@@ -13,6 +13,7 @@
   "author": "tratnayake",
   "license": "ISC",
   "dependencies": {
+    "chai": "^3.5.0",
     "cli-table": "^0.3.1",
     "q": "^1.4.1",
     "supertest": "^1.2.0",
